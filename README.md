@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍🎓 I'm currently pursuing a Masters' degree of Computer Sciences at [LMU Munich](https://www.ifi.lmu.de/), Germany
+- 👨‍🎓 I'm currently pursuing a Masters' degree of Computer Sciences at [LMU Munich](https://www.uni-muenchen.de/), Germany
 - 👨‍💻 I'm working at [Celonis](https://www.celonis.com/) (Process Mining) as Junior Software Engineer in the Core - Event Collection department
 - 🌱 I’m currently deepening my knowledge in Rust and Java
 - 🚀 [Tech4Germany](https://tech.4germany.org/ueber-uns/) alumni (Engineering Fellow 2018)
