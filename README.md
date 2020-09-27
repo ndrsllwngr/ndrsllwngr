@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👨‍🎓 I'm currently pursuing a Masters' degree of Computer Sciences at [LMU Munich](https://www.ifi.lmu.de/), Germany
+- 👨‍💻 I'm working at [Celonis](https://www.celonis.com/) (Process Mining) as Junior Software Engineer in the Core - Event Collection department
+- 🌱 I’m currently deepening my knowledge in Rust and Java
+- 📫 How to reach me: www.andreasellwanger.com
+- 😄 Pronouns: he/him
 
 <!--
 **ndrsllwngr/ndrsllwngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
