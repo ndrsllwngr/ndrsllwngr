@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍🎓 &nbsp; I'm pursuing a Masters' degree of Computer Sciences at [LMU Munich](https://www.uni-muenchen.de/), Germany
 - 👨‍💻 &nbsp; I'm working at [Celonis](https://www.celonis.com/) (Process Mining) as Junior Software Engineer (Core - Event Collection department)
-- 🌱 &nbsp; I’m currently deepening my knowledge in Rust and Java
+- 🌱 &nbsp; I’m currently deepening my knowledge in Java, Rust and Node.js
 - 🚀 &nbsp; [Tech4Germany](https://tech.4germany.org/ueber-uns/) alumni (Engineering Fellow 2018)
 - 😄 &nbsp; Pronouns: he/him
 
