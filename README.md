@@ -1,3 +1,5 @@
+# Hi 👋
+
 ```rust
 fn main() {
     let me = SoftwareEngineer {
@@ -25,7 +27,7 @@ impl SoftwareEngineer<'_> {
 ```
 
 <!--
-### Hi there 👋
+
 - 👨‍💻 &nbsp; I'm working at [Celonis](https://www.celonis.com/) (Process Mining) as Software Engineer
 - 👨‍🎓 &nbsp; I'm pursuing a Masters' degree of Computer Sciences at [LMU Munich](https://www.uni-muenchen.de/), Germany
 - 🌱 &nbsp; I’m currently deepening my knowledge in Java, Rust and Node.js
